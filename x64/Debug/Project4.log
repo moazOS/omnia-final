@@ -1,0 +1,6 @@
+﻿  Users.cpp
+C:\Users\Moaaz Osama\Desktop\New folder\Project4\Users.cpp(150,17): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\Moaaz Osama\Desktop\New folder\Project4\Users.cpp(506,13): warning C4129: 'F': unrecognized character escape sequence
+C:\Users\Moaaz Osama\Desktop\New folder\Project4\Users.cpp(551,17): warning C4129: 'F': unrecognized character escape sequence
+C:\Users\Moaaz Osama\Desktop\New folder\Project4\Users.cpp(1117,21): warning C4129: 'F': unrecognized character escape sequence
+  Project4.vcxproj -> C:\Users\Moaaz Osama\Desktop\New folder\Project4\x64\Debug\Project4.exe
